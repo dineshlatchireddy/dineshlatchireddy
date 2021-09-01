@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh Naidu latchireddy
 - 👀 I’m interested in Embedded Sysytems
-- 🌱 I’m currently learning Embedded systems
+- 🌱 I’m currently trainee in Embedded systems
 - 💞️ I’m looking to collaborate on Semiconductor feild
 - 📫 How to reach me ... Email : dineshlatchireddy96@yahoo.com
 
